@@ -1,6 +1,6 @@
 <?php
 
-class Jaime {
+class Jaime extends Lannister {
 
 	public function sleepWith( $target ) {
 		if ($target instanceof Cersei)
