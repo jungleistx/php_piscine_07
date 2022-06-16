@@ -1,4 +1,5 @@
 <?php
+
 abstract class House {
 
 	abstract function getHouseName();
