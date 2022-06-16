@@ -2,7 +2,7 @@
 
 class UnholyFactory {
 
-	public $_actFighters = array();
+	private $_actFighters = array();
 
 	public function absorb( $type ) {
 		if ($type instanceof Fighter)
