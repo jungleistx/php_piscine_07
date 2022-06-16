@@ -2,7 +2,7 @@
 
 class Targaryen {
 
-	protected function resistsFire() {
+	public function resistsFire() {
 		return false;
 	}
 
